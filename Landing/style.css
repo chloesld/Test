@@ -1,0 +1,66 @@
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 15px;
+  font-family: Open sans;
+}
+h1{
+  font-family: raleway;
+  color: red;
+  font-weight: bolder;
+  font-size: 40px;
+  ;
+}
+h2 {
+  font-family: Raleway;
+  color: #53caff;
+  font-size: 30px;
+}
+a {
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  color: blue;
+}
+
+#banner {
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/403571/pexels-photo-403571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+#banner h1 {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/673648/pexels-photo-673648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  margin-bottom: 10px;
+  margin-top: 10px;
+
+}
+
+h2 {
+	text-align:center;
+}
+
